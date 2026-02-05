@@ -57,10 +57,10 @@ Check papers.
 [TYPE MOON MADE](https://typemoon.com/)  
 [PA](https://www.pa-works.jp/works/)  
 [NinKoro](https://ninkoro.jp/)  
-[HOUBUNSHA CO., LTD.](https://houbunsha.co.jp/)  
 
 ## My favorite Manga
-[F.S.S](https://automaticflowers.ne.jp/fss/)
+[F.S.S](https://automaticflowers.ne.jp/fss/)  
+[HOUBUNSHA CO., LTD.](https://houbunsha.co.jp/)  
 
 ## Great creators
 Mamoru Nagano  
