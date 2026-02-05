@@ -1,6 +1,6 @@
-<!-- 1. Header Image (optional) -->
+<!-- 1. Header Image -->
 <p align="center">
-<a href=https://houbunsha.co.jp/><img src="https://ik.imagekit.io/mvzykrd9m/sliderSmpl_kr20251209.png" alt="KunihiroS header" /></a>
+  [![KunihiroS header](https://ik.imagekit.io/mvzykrd9m/sliderSmpl_kr20251209.png)](https://houbunsha.co.jp/)
 </p>
 # KunihiroS profile
 
