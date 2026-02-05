@@ -52,7 +52,8 @@ Check papers.
 [ProjectZomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)  
 [StoneShard](https://store.steampowered.com/app/625960/Stoneshard/)
 
-## My favorite anime
+## My favorite contents
+[HOUBUNSHA CO., LTD.](https://houbunsha.co.jp/))
 [Sound! Euphonium](https://tv.anime-eupho.com/)  
 [TYPE MOON MADE](https://typemoon.com/)  
 [PA](https://www.pa-works.jp/works/)  
