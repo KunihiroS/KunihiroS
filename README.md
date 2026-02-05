@@ -1,3 +1,7 @@
+<!-- 1. Header Image (optional) -->
+<p align="center">
+<img src="https://ik.imagekit.io/mvzykrd9m/sliderSmpl_kr20251209.png" alt="KunihiroS header" />
+</p>
 # KunihiroS profile
 
 ```toon
