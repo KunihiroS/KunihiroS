@@ -1,9 +1,10 @@
 <!-- 1. Header Image -->
 <p align="center">
-  [![KunihiroS header](https://ik.imagekit.io/mvzykrd9m/sliderSmpl_kr20251209.png)](https://houbunsha.co.jp/)
+  <a href="https://houbunsha.co.jp/">
+    <img src="https://ik.imagekit.io/mvzykrd9m/sliderSmpl_kr20251209.png" alt="KunihiroS header" />
+  </a>
 </p>
 # KunihiroS profile
-
 ```toon
 title: "signature"
 
