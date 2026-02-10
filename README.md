@@ -1,7 +1,7 @@
 <!-- 1. Header Image -->
 <p align="center">
-  <a href="https://houbunsha.co.jp/">
-    <img src="https://ik.imagekit.io/mvzykrd9m/sliderSmpl_kr20251209.png" alt="KunihiroS header" />
+  <a href="https://www.b-ch.com/titles/238/">
+    <img src="https://ik.imagekit.io/mvzykrd9m/238h.jpg" alt="KunihiroS header" />
   </a>
 </p>
 
