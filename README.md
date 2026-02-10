@@ -65,6 +65,7 @@ Obsidian
 [PA](https://www.pa-works.jp/works/)  
 [NinKoro](https://ninkoro.jp/)  
 [The Vision of Escaflowne](https://www.escaflowne.jp/)  
+[Aim for the Top! GunBuster](https://gunbuster.fandom.com/wiki/Top_o_Nerae!_GunBuster)  
 
 ## My favorite Manga
 [F.S.S](https://automaticflowers.ne.jp/fss/)  
