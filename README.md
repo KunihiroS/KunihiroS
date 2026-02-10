@@ -53,6 +53,7 @@ Fanatic on AI.
 [VSC Theme creation.](https://marketplace.visualstudio.com/publishers/KunihiroS)  
 MCP Server creation.  
 Check papers.
+Obsidian  
 
 ## My favorite games
 [ProjectZomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)  
