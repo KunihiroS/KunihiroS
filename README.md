@@ -52,7 +52,7 @@ Fanatic on AI.
 ## My hobbies
 [VSC Theme creation.](https://marketplace.visualstudio.com/publishers/KunihiroS)  
 MCP Server creation.  
-Check papers.
+Check papers.  
 Obsidian  
 
 ## My favorite games
