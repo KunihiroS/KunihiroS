@@ -63,6 +63,7 @@ Check papers.
 [TYPE MOON MADE](https://typemoon.com/)  
 [PA](https://www.pa-works.jp/works/)  
 [NinKoro](https://ninkoro.jp/)  
+[The Vision of Escaflowne](https://www.escaflowne.jp/)  
 
 ## My favorite Manga
 [F.S.S](https://automaticflowers.ne.jp/fss/)  
