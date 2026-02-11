@@ -33,8 +33,6 @@ websites:
   X: "https://x.com/kunihirosks"
 ```
 
-## version: 1.2.0
-
 ## Self introduction
 This is KunihiroS main page explaining who KunihiroS is.<br>
 My icon is my own created character (not genarated!!) named "Koharu Hojo" (High school girl).<br>
